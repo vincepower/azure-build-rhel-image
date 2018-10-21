@@ -1,6 +1,6 @@
 # Used to create RHEL image for Azure
 
-Built on Mac OS
+Built on Mac OS and for building an image that will work with [Microsoft's OpenShift deployment scripts](https://github.com/Microsoft/openshift-container-platform) which are hosted on GitHub.
 
 Have gawk, qemu, and VirtualBox installed (via brew)
 
